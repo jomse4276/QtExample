@@ -8,8 +8,8 @@
   Press global hot key to play a scale G by buzzer of computer.   
 # Program：  
 1.Serial:    
-  Including one funtion for init,5 funtions for slots.  
-  Less size of code. 
+  Including one funtion for init,5 funtions for slots.      
+  Less size of code.       
 2.Qt key event:   
   Based on qt library.    
 3.Qt global hot key:
