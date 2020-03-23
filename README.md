@@ -5,4 +5,8 @@
   Including one funtion for init,5 funtions for slots.  
   Less size of code.    
 # Chinese course:  
-  https://www.bilibili.com/video/av86771426
+	Serial port：https://www.bilibili.com/video/BV1EE4117728/
+    Key Event & HotKey: https://www.bilibili.com/video/BV1oE411F7HC/
+# New Example:
+1.Qt key event.date:March 24, 2020.
+2.Qt global hot key.date:March 24, 2020.
